@@ -1,4 +1,4 @@
-# Project-Endymion
+# Project-Endymion v2
 **HSLO Endymion Development**  
 This is an unofficial HSLO project after 2CL (HSLO Creator) leave.
 
